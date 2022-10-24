@@ -1,31 +1,16 @@
 - 👋 Oi, eu sou o @6evenh6 (João Leite)
 - 👀 Sou muito interessado em impressora 3D e Programação ...
-- 🌱 Curso de Desenvolvimento Web em andamento...
-  - <strong>HTML 5<strong>
-  - <strong>CSS3<strong>
-  - <strong>HTML 5<strong>
-  - <strong>CSS3 Intermediário & avançado<strong>
-  - <strong>HTML5 e CSS3 - Recursos especiais<strong>
-  - <strong>Bootstrap 4 & Design responsivo<strong>
-  - <strong>JavaScript<strong>
-  - <strong>JavaScript Moderno (ECMAScript 2015 - ES6) e Orientação a Objetos<strong>
-  - <strong>PHP 7<strong>
-  - <strong>PHP 7 e Orientação a Objetos<strong>
-  - <strong>Banco de dados MySQL<strong>
-  - <strong>Ajax<strong>
-  - <strong>PHP com PDO<strong>
-  - <strong>Publicação de aplicações Web na Internet<strong>
-  - <strong>JQuery<strong>
-  - <strong>Padrão de arquitetura MVC com PHP<strong>
-  - <strong>PHP 7 & MySQL - Projeto aplicado Twitter Clone<strong>
-  - <strong>API com Slim Framework<strong>
-  - <strong>Introdução ao WordPress (criação de blogs)<strong>
-  - <strong>SASS<strong>
-  - <strong>Criando aplicações Mobile com IONIC<strong> 
+- 🌱 Planos de estudos relacionados a de Desenvolvimento Web em andamento...
+  - <strong>HTML 5 70%<strong>
+  - <strong>CSS 3 60%<strong>
+  - <strong>HTTP 100% (nível desenvolvedor web)<strong>
+  - <strong>Javascript 0%<strong>
+
   
-Link do curso para quem tiver interesse:
-https://www.udemy.com/course/web-completo/
-  
+Para quem tiver interesse estou fazendo cursos na plataforma ALURA na qual achei os conteúdos muito intuitivos e que ajudam você a se manter estudando devido ao seu tempo de cada video e ainda mais a pontuação que te torna competitivo.
+
+- Funcionário do Banco Bradesco, como Analista, função na qual sou programador assistente e que me esforço todos os dias para evoluir a dinâmica da equipe e trazer tecnologias novas para evolução do departamento como um todo, acredito que a tecnologia tem o poder de mudar tudo !
+
 - 💞️ Busco novos desafios profissionais, algo inspirador, e que eu possa transmitir todo meu 
 conhecimento e experiência de forma criativa e aprender com outras pessoas...
 - 📫 Contato ...
