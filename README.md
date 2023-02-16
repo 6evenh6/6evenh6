@@ -9,7 +9,7 @@
   
 Para quem tiver interesse estou fazendo cursos na plataforma ALURA na qual achei os conteúdos muito intuitivos e que ajudam você a se manter estudando devido ao seu tempo de cada video e ainda mais a pontuação que te torna competitivo.
 
-- Funcionário do Banco Bradesco, como Analista, função na qual sou programador assistente e que me esforço todos os dias para evoluir a dinâmica da equipe e trazer tecnologias novas para evolução do departamento como um todo, acredito que a tecnologia tem o poder de mudar tudo !
+- Funcionário do Banco Bradesco, como Analista, função na qual sou programador e que me esforço todos os dias para evoluir a dinâmica da equipe e trazer tecnologias novas para evolução do departamento como um todo, acredito que a tecnologia tem o poder de mudar tudo !
 
 - 💞️ Busco novos desafios profissionais, algo inspirador, e que eu possa transmitir todo meu 
 conhecimento e experiência de forma criativa e aprender com outras pessoas...
