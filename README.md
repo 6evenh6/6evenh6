@@ -3,7 +3,7 @@
 - 🌱 Planos de estudos relacionados a de Desenvolvimento Web em andamento...
   - <strong>HTML 5 70%<strong>
   - <strong>CSS 3 60%<strong>
-  - <strong>HTTP 100% (nível desenvolvedor web)<strong>
+  - <strong>HTTP 100%<strong>
   - <strong>Javascript 0%<strong>
 
   
