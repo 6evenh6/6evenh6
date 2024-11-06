@@ -1,5 +1,5 @@
 <h3>Hi, I'm João</h3>
-<p>- 👋 I am a Junior Software Developer (Back-End C# / Java) until October 2024 at Banco Bradesco</p>
+<p>- 👋 I am a Junior Software Developer (Back-End C# / Java) </p>
 <p>- 🌱 Recently I am studying Java and Spring Boot, migrating from the C# language and moving to Java to serve more corporate environments.</p>
 <p>- Fun Facts: Cat lover with a passion for 3D printing and all things tech!</p>
 <p>- 🤔 This is my personal profile.</p>
